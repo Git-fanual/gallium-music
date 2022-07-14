@@ -9,6 +9,6 @@
         name: "homeScreen",
         props: {
             out: String
-        }
+        },
     }
 </script>
